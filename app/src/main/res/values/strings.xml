@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">AgroBirzha</string>
+    <string name="title_activity_main">AgroBirzha</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_main2">AgroBirzha</string>
+    <string name="agriculture">Agriculture</string>
+    <string name="cargo">Cargo services</string>
+    <string name="repair">Repair of agricultural equipment</string>
+    <string name="title_list">List</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_cart">Cart</string>
+    <string name="cartempty">Your cart is empty</string>
+    <string name="favempty">Your favorite list is empty</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="contacts">Contacts</string>
+    <string name="account">My account</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Log out</string>
+    <string name="ploffer">Sell</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="registerbtn">Register</string>
+    <string name="loginbtn">Log in</string>
+    <string name="submitbtn">Submit</string>
+    <string name="networkerror">Turn on WiFi or Cellular Data</string>
+    <string name="buy">Buy</string>
+    <string name="tenge">tg.</string>
+    <string name="picbtn">Choose photo</string>
+    <string name="offer">Offer</string>
+    <string name="goodtitle">Title</string>
+    <string name="price">Price(tg.)</string>
+    <string name="category">Category</string>
+    <string name="gooddesc">Description</string>
+    <string name="enterdet">Please fill out all fields!</string>
+    <string name="uplphoto">Please, upload a photo!</string>
+    <string name="city">City</string>
+    <string name="myitems">My items</string>
+    <string name="removeitem">Remove</string>
+    <string name="about">About</string>
+    <string name="workingtime">Working time: </string>
+    <string name="wrkweek">Mo - Fr, 9am - 7pm</string>
+    <string name="phone">Phone: </string>
+    <string name="address">Address: </string>
+    <string name="addressinfo">Kabanbay Batyr str, 91</string>
+    <string name="companydata">Company data</string>
+    <string name="bin">BIN: </string>
+    <string name="bik">BIK: </string>
+    <string name="orgname">Company name</string>
+    <string name="summ">Total: </string>
+    <string name="orderbtn">Order</string>
+    <string name="aboutinfo">Welcome to the free classified ads portal for producers and buyers of the agricultural sector of the Republic of Kazakhstan.
+In order to simplify the process of buying / selling agricultural products as much as possible, we have created AgroBirge. It should be noted that transactions on the site are made directly between users, and we, in turn, provide an absolutely free ad platform.
+"Agrobirzha" allows you to effectively solve the problem of sales of agricultural products without intermediaries and other aggravating circumstances. After just a few clicks, even the most uncertain user.</string>
+</resources>

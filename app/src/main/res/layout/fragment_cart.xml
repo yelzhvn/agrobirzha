@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/db1_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.RecyclerView
+    android:id="@+id/cartitemsrecylcerView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="56dp"
+    tools:layout_editor_absoluteX="745dp"
+    tools:layout_editor_absoluteY="-51dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cartitemsrecylcerView"
+        android:layout_marginTop="-56dp"
+        android:gravity="start">
+
+        <TextView
+            android:id="@+id/summ"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/summ"
+            android:textColor="@android:color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/summdetail"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_toEndOf="@id/summ"
+            android:text=""
+            android:textSize="24sp" />
+    </RelativeLayout>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="-56dp"
+    android:gravity="end"
+    android:layout_below="@id/cartitemsrecylcerView">
+
+        <Button
+            android:id="@+id/orderbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@android:color/holo_green_light"
+            android:textColor="@android:color/white"
+            android:text="@string/orderbtn" />
+</RelativeLayout>
+</RelativeLayout>

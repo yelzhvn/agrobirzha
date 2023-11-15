@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">АгроБиржа</string>
+    <string name="title_activity_main">АгроБиржа</string>
+
+    <string name="navigation_drawer_open">Открыть навигацию</string>
+    <string name="navigation_drawer_close">Закрыть навигацию</string>
+
+    <string name="title_activity_main2">АгроБиржа</string>
+    <string name="agriculture">Сельхозпродукция</string>
+    <string name="cargo">Транспортные компании</string>
+    <string name="repair">Ремонт сельхозтехники</string>
+    <string name="title_list">Список</string>
+    <string name="title_favorite">Избранные</string>
+    <string name="title_cart">Корзина</string>
+    <string name="signup">Регистрация</string>
+    <string name="cartempty">Ваша корзина пуста</string>
+    <string name="favempty">Список пуст</string>
+    <string name="signin">Вход</string>
+    <string name="contacts">Контакты</string>
+    <string name="account">Мой профиль</string>
+    <string name="ploffer">Продать</string>
+    <string name="settings">Настройки</string>
+    <string name="logout">Выход</string>
+    <string name="first_name">Ваше имя</string>
+    <string name="email">Эл. почта</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="registerbtn">Зарегистрироваться</string>
+    <string name="loginbtn">Войти</string>
+    <string name="submitbtn">Отправить</string>
+    <string name="offer">Предложение</string>
+    <string name="picbtn">Выбрать фото</string>
+    <string name="goodtitle">Название услуги</string>
+    <string name="price">Цена(в тг.)</string>
+    <string name="category">Категория</string>
+    <string name="gooddesc">Краткое описание</string>
+    <string name="city">Город</string>
+    <string name="networkerror">Подключитесь к сети</string>
+    <string name="buy">Купить</string>
+    <string name="enterdet">Пожалуйста, заполните все поля!</string>
+    <string name="uplphoto">Пожалуйста, загрузите фото</string>
+    <string name="tenge">тг.</string>
+    <string name="myitems">Мои товары</string>
+    <string name="removeitem">Удалить</string>
+    <string name="about">О нас</string>
+    <string name="workingtime">Время работы: </string>
+    <string name="wrkweek">Пнд – Пт, 09:00 – 07:00</string>
+    <string name="phone">Телефон: </string>
+    <string name="address">Адресс: </string>
+    <string name="addressinfo">ул. Кабанбай батыра, 91</string>
+    <string name="companydata">Компания</string>
+    <string name="bin">БИН: </string>
+    <string name="bik">БИК: </string>
+    <string name="orgname">Название компании: </string>
+    <string name="summ">Итого: </string>
+    <string name="orderbtn">Заказать</string>
+    <string name="aboutinfo">Добро пожаловать на портал бесплатных объявлений для производителей и покупателей аграрного сектора Республики Казахстан.
+Для того чтобы максимально упростить процесс купли/продажи сельхозпродукции мы создали «Агробиржу». Следует отметить, что сделки на сайте заключаются напрямую между пользователями, а мы, в свою очередь, абсолютно бесплатно предоставляем платформу для размещения объявлений.
+«Агробиржа» позволяет эффективно решить проблему сбыта сельхозпродукции без посредников и прочих отягощающих обстоятельств. Всего после нескольких кликов даже самый неуверенный пользователь сети Интернет сможет без труда разместить своё объявление или найти необходимый товар.
+</string>
+</resources>
+

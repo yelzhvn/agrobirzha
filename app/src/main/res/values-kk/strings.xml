@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">АгроБиржа</string>
+    <string name="title_activity_main">АгроБиржа</string>
+
+    <string name="navigation_drawer_open">Навигацияны ашу</string>
+    <string name="navigation_drawer_close">Навигацияны жабу</string>
+
+    <string name="title_activity_main2">АгроБиржа</string>
+    <string name="agriculture">Ауылшаруашылық өнім</string>
+    <string name="cargo">Транспорттық компаниялар</string>
+    <string name="repair">Ауылшаруашылық техникалардың ремонты</string>
+    <string name="title_list">Тізім</string>
+    <string name="title_favorite">Таңдалған</string>
+    <string name="title_cart">Себет</string>
+    <string name="signup">Тіркелу</string>
+    <string name="cartempty">Сіздің себетіңіз бос</string>
+    <string name="favempty">Сіздің таңдалған тізіміңіз бос</string>
+    <string name="signin">Кіру</string>
+    <string name="contacts">Контактілер</string>
+    <string name="account">Менің профильім</string>
+    <string name="ploffer">Сату</string>
+    <string name="settings">Баптаулар</string>
+    <string name="logout">Шығу</string>
+    <string name="first_name">Сіздің атыңыз</string>
+    <string name="email">Эл. пошта</string>
+    <string name="password">Құпия сөз</string>
+    <string name="confirm_password">Құпия сөзді қайталаңыз</string>
+    <string name="registerbtn">Тіркеу</string>
+    <string name="loginbtn">Кіру</string>
+    <string name="submitbtn">Жіберу</string>
+    <string name="offer">Ұсыныс</string>
+    <string name="picbtn">Сурет таңдау</string>
+    <string name="goodtitle">Ұсыныстың аты</string>
+    <string name="price">Бағасы(тг.)</string>
+    <string name="category">Категория</string>
+    <string name="gooddesc">Қысқа сипаттама</string>
+    <string name="city">Қала</string>
+    <string name="networkerror">Желіге қосылыңыз</string>
+    <string name="buy">Сатып алу</string>
+    <string name="enterdet">Барлық жолдарды толтырыңыз!</string>
+    <string name="uplphoto">Сурет таңдаған жоқсыз!</string>
+    <string name="tenge">тг.</string>
+    <string name="myitems">Менің тауарларым</string>
+    <string name="removeitem">Жою</string>
+    <string name="about">Біз туралы</string>
+    <string name="workingtime">Жұмыс уақыты: </string>
+    <string name="wrkweek">Дүй–бі – Жұма, 09:00 – 07:00</string>
+    <string name="phone">Телефон: </string>
+    <string name="address">Адресс: </string>
+    <string name="addressinfo">Қабанбай батыр көш., 91</string>
+    <string name="companydata">Компания</string>
+    <string name="bin">БИН: </string>
+    <string name="bik">БИК: </string>
+    <string name="orgname">Компанияның аты: </string>
+    <string name="summ">Барлығы: </string>
+    <string name="orderbtn">Тапсырыс</string>
+    <string name="aboutinfo">Қазақстан Республикасының аграрлық секторының өндіруші және сатып алушыларға арналған тегін хабарландыру порталына қош келдіңіз!
+Сатып алу/сату барысын барынша жеңілдету үшін, біз “АгроБиржа” жүйесін ойлап таптық. Айта кетерлік, қосымшадағы келісімдер тікелей қолданушылар арасында жүреді, ал біз болсақ сол келісімдерді іске асыру үшін тегін хабарландыру платформасын ұсынамыз.
+“Агробиржа” ауылшаруашылық өнімдерін делдалдықсыз жылдам сатуға көмектеседі. Бірнеше клик ішінде, тіпті, өзіне сенімсіз Интернет желісінің қолданушысы біздің қосымшамыз арқылы оңай өзінің хабарландыруын салып, немесе өзіне керекті тауарды сатып ала алады.
+</string>
+</resources>
+
